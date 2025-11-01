@@ -2,22 +2,24 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Summer Zhai Bio # the website title (if blank, full name will be used instead)
-first_name: Summer
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Wenqi
+middle_name: (Summer)
 last_name: Zhai
 contact_note: >
-  summerzhai620 at gmail.com
+  Best way to reach me is via email or LinkedIn. I typically respond within 24 hours.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  AI/ML Engineer passionate about building scalable systems for financial services, data science, and machine learning. Currently at Chase, previously at eBay. Interested in LLMs, RAG systems, and real-world ML applications.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+keywords: ai, ml, engineer, data science, python, llm, rag, machine learning
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://wenqizhai.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
